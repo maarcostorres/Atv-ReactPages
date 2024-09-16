@@ -4,6 +4,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 import Login from './pages/Login';
 import Cadastro from './pages/Cadastro';
 import EsqueciSenha from './pages/EsqueciSenha';
+import {info} from './data/dados';
 
 const Stack = createStackNavigator();
 
